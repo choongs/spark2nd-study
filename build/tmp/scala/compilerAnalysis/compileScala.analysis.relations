@@ -1,0 +1,28 @@
+products:
+   /Users/choonghyun/Dev/spark2nd-study/src/main/scala/ch2/ActionRDD.scala -> /Users/choonghyun/Dev/spark2nd-study/build/classes/scala/main/ch2/ActionRDD$.class
+   /Users/choonghyun/Dev/spark2nd-study/src/main/scala/ch2/ActionRDD.scala -> /Users/choonghyun/Dev/spark2nd-study/build/classes/scala/main/ch2/ActionRDD.class
+   /Users/choonghyun/Dev/spark2nd-study/src/main/scala/ch2/CreateRDD.scala -> /Users/choonghyun/Dev/spark2nd-study/build/classes/scala/main/ch2/CreateRDD$.class
+   /Users/choonghyun/Dev/spark2nd-study/src/main/scala/ch2/CreateRDD.scala -> /Users/choonghyun/Dev/spark2nd-study/build/classes/scala/main/ch2/CreateRDD.class
+   /Users/choonghyun/Dev/spark2nd-study/src/main/scala/common/Scala.scala -> /Users/choonghyun/Dev/spark2nd-study/build/classes/scala/main/common/Scala$.class
+   /Users/choonghyun/Dev/spark2nd-study/src/main/scala/common/Scala.scala -> /Users/choonghyun/Dev/spark2nd-study/build/classes/scala/main/common/Scala.class
+binary dependencies:
+   /Users/choonghyun/Dev/spark2nd-study/src/main/scala/ch2/ActionRDD.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/rt.jar
+   /Users/choonghyun/Dev/spark2nd-study/src/main/scala/ch2/ActionRDD.scala -> /Users/choonghyun/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-core_2.11/2.1.0/724bfcfc939a1c8a4d6d3b95497c0032d9102ec6/spark-core_2.11-2.1.0.jar
+   /Users/choonghyun/Dev/spark2nd-study/src/main/scala/ch2/ActionRDD.scala -> /Users/choonghyun/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar
+   /Users/choonghyun/Dev/spark2nd-study/src/main/scala/ch2/CreateRDD.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/rt.jar
+   /Users/choonghyun/Dev/spark2nd-study/src/main/scala/ch2/CreateRDD.scala -> /Users/choonghyun/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-core_2.11/2.1.0/724bfcfc939a1c8a4d6d3b95497c0032d9102ec6/spark-core_2.11-2.1.0.jar
+   /Users/choonghyun/Dev/spark2nd-study/src/main/scala/ch2/CreateRDD.scala -> /Users/choonghyun/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar
+   /Users/choonghyun/Dev/spark2nd-study/src/main/scala/common/Scala.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/rt.jar
+   /Users/choonghyun/Dev/spark2nd-study/src/main/scala/common/Scala.scala -> /Users/choonghyun/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-core_2.11/2.1.0/724bfcfc939a1c8a4d6d3b95497c0032d9102ec6/spark-core_2.11-2.1.0.jar
+   /Users/choonghyun/Dev/spark2nd-study/src/main/scala/common/Scala.scala -> /Users/choonghyun/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar
+source dependencies:
+   /Users/choonghyun/Dev/spark2nd-study/src/main/scala/ch2/ActionRDD.scala -> /Users/choonghyun/Dev/spark2nd-study/src/main/scala/common/Scala.scala
+   /Users/choonghyun/Dev/spark2nd-study/src/main/scala/ch2/CreateRDD.scala -> /Users/choonghyun/Dev/spark2nd-study/src/main/scala/common/Scala.scala
+external dependencies:
+class names:
+   /Users/choonghyun/Dev/spark2nd-study/src/main/scala/ch2/ActionRDD.scala -> ch2.ActionRDD
+   /Users/choonghyun/Dev/spark2nd-study/src/main/scala/ch2/ActionRDD.scala -> ch2.ActionRDD$
+   /Users/choonghyun/Dev/spark2nd-study/src/main/scala/ch2/CreateRDD.scala -> ch2.CreateRDD
+   /Users/choonghyun/Dev/spark2nd-study/src/main/scala/ch2/CreateRDD.scala -> ch2.CreateRDD$
+   /Users/choonghyun/Dev/spark2nd-study/src/main/scala/common/Scala.scala -> common.Scala
+   /Users/choonghyun/Dev/spark2nd-study/src/main/scala/common/Scala.scala -> common.Scala$
